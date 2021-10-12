@@ -4,11 +4,11 @@ print("Username is: " + username)
 
 print("Calling a Function!")
 
-def my_function_fname(fname):
+def my_function_fname():
    fname=input("Please Enter your First Name")
    print(fname + "First Name")
     
-def my_function_lname(lname):  
+def my_function_lname():  
    lname=input("Please Enter your Last Name")
    print(lname + " Last Name") 
     
